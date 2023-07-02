@@ -17,7 +17,7 @@ const Footer = () => {
               </div>
             </div>
             <div className="col-7">
-              <div class="input-group">
+              <div className="input-group">
                 <input
                   type="text"
                   className="form-control py-1"
@@ -45,9 +45,9 @@ const Footer = () => {
                 <a href="mailto:visiocraft@lab.io" className="text-white d-block mb-2 mt-3">visiocraft@lab.io</a>
                 <div className="social_icons d-flex align-items-center gap-15">
 
-                  <a href="https://www.facebook.com/visiocraft" target="_blank"><BsFacebook className="text-white fs-5"/></a>
-                  <a href="https://www.google.com" target="_blank"><BsGoogle className="text-white fs-5"/></a>
-                  <a href="https://www.twitter.com" target="_blank"><BsTwitter className="text-white fs-5"/></a>
+                  <a href="https://www.facebook.com/visiocraft" target=""><BsFacebook className="text-white fs-5"/></a>
+                  <a href="https://www.google.com" target=""><BsGoogle className="text-white fs-5"/></a>
+                  <a href="https://www.twitter.com" target=""><BsTwitter className="text-white fs-5"/></a>
 
                 </div>
               </div>

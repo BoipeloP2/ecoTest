@@ -34,11 +34,11 @@ const OurStore = () =>{
                          <div>
                          <div className="form-check">
                             <input className="form-check-input" type="checkbox" value="" id=""/>
-                            <label className="form-check-label" htmlfor="">In Stock(1)</label>
+                            <label className="form-check-label" htmlFor="">In Stock(1)</label>
                          </div>
                          <div className="form-check">
                             <input className="form-check-input" type="checkbox" value="" id="" />
-                            <label className="form-check-label" htmlfor="">Out of Stock(0) </label>
+                            <label className="form-check-label" htmlFor="">Out of Stock(0) </label>
                          </div>
                          </div>
                         </div>

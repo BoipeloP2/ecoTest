@@ -5,7 +5,7 @@ import {Link, useLocation} from "react-router-dom";
 
 
 const ProductCard = (props) => {
-    const {grid } = props;
+    const {grid } = props();
     let location = useLocation();
     
   return (

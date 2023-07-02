@@ -1,9 +1,10 @@
 import React from 'react'
 import {Link} from "react-router-dom";
+import PropTypes  from 'prop-types';
 
 
 const BreadCrumb = (props) => {
-    const {title} = props;
+    const {title} = props();
   return (
     <div className='BreadCrumb mb-0 py-4'>
         <div className="container-xxl">
